@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap Location
-Sitemap: https://clevercleaner-gebaudereinigung.bitbucket.io/sitemap.xml
+Sitemap: https://clevercleaner-gebaudereinigung-05a955ca94a8.herokuapp.com/sitemap.xml
 
 # Google Bot
 User-agent: Googlebot
